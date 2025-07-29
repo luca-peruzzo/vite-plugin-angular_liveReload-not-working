@@ -1,4 +1,8 @@
+# Steps
 1 - Try to edit h1 on app.ts template and see nothing happens
+<br>
 2 - Downgrade:
-    "@analogjs/platform": "1.19.1",
-    "@analogjs/vite-plugin-angular": "1.19.1",
+<br>
+"@analogjs/platform": "1.19.1",
+<br>
+"@analogjs/vite-plugin-angular": "1.19.1",
